@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Currently I'm learning to program. At university my lectors explained what GitLab is and it's kinda similar to GitHub. A classmate introduces me what GitHub is and now I am trying to make portfolios in the near future.
+
+I learn aswell diffrent programming languages so I can understand easily how it works.
